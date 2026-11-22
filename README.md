@@ -19,3 +19,5 @@ php artisan p:extension:install mod-installer.pteroext --enable --replace
 
 - Pick which eggs show the Mods page in the extension settings.
 - Add a CurseForge API key there to turn on CurseForge.
+
+![A free s4way product](images/05-footer.png)
